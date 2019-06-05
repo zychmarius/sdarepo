@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(Integer.toBinaryString(1041));
         System.out.println(solution(1041));
+        String test;
     }
 
     public static int solution(int N) {
